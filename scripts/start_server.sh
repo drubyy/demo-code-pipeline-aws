@@ -1,3 +1,3 @@
 #!/bin/bash
-service nginx start
+service httpd start
 
